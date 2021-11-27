@@ -79,17 +79,17 @@ Il est possible de faire plein de bonus pour ce sujet. Voici quelques suggestion
 
  `python ./histogram.py DATA`
 
-<img alt="histo" src="https://github.com/AcensJJ/dslr/blob/main/img/histogram.png">
+<img alt="histo" src="/img/histogram.png">
 
 `python ./scatter_plot.py DATA`
  
-<img alt="scatter" src="https://github.com/AcensJJ/dslr/blob/main/img/all_scatter_plot.png">
+<img alt="scatter" src="/img/all_scatter_plot.png">
 
-<img alt="scatter line" src="https://github.com/AcensJJ/dslr/blob/main/img/result_scatter_plot.png">
+<img alt="scatter line" src="/img/result_scatter_plot.png">
 
 `python ./pair_plot.py DATA`
 
-<img alt="pair" src="https://github.com/AcensJJ/dslr/blob/main/img/pair_plot.png">
+<img alt="pair" src="/img/pair_plot.png">
 
 ## IA
 
@@ -97,8 +97,8 @@ Il est possible de faire plein de bonus pour ce sujet. Voici quelques suggestion
 
 ### Sigmoid function (Logistic Function)
 
-<img alt="pair" src="https://github.com/AcensJJ/dslr/blob/main/img/log/sigmoid.png">
+<img alt="pair" src="/img/log/sigmoid.png">
 
 ### Cost function
 
-<img alt="pair" src="https://github.com/AcensJJ/dslr/blob/main/img/log/cost.png">
+<img alt="pair" src="/img/log/cost.png">
