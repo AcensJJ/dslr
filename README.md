@@ -99,6 +99,6 @@ Il est possible de faire plein de bonus pour ce sujet. Voici quelques suggestion
 
 <img alt="pair" src="https://github.com/AcensJJ/dslr/blob/main/img/log/sigmoid.png">
 
-### Cost fucntion
+### Cost function
 
 <img alt="pair" src="https://github.com/AcensJJ/dslr/blob/main/img/log/cost.png">
