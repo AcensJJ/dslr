@@ -108,7 +108,6 @@ if __name__ == "__main__":
 		print("Error: empty value")
 		exit(-1)
 	m = len(data['Hogwarts House'])
-	trained_parameters = []
 	X = np.concatenate(
         (
             np.ones((data.shape[0], 1)),
